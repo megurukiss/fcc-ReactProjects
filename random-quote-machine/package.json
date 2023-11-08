@@ -21,7 +21,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "deploy": "gh-pages -d ./build -e random-quote-machine"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build -b gh-pages -e random-quote-machine"
   },
   "eslintConfig": {
     "extends": [
