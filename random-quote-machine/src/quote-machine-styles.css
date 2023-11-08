@@ -1,0 +1,43 @@
+.wrapper{
+    background-color: white;
+    border-radius: 10px;
+    padding: 30px;
+    width: 600px;
+}
+.quote{
+    font-size: 20px;
+    font-weight: bold;
+
+}
+.quote-icon{
+    padding-right: 10px;
+}
+.author{
+    display:block;
+    text-align: right;
+    padding-top: 20px;
+}
+.bottom{
+    padding: 20px;
+}
+.button1{
+    padding: 10px;
+    background-color: yellow;
+    float: left;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.button2{
+    padding: 10px;
+    background-color: yellow;
+    float: right;
+    border: 0;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.footer{
+    margin: 10px;
+}
+.footerText{
+    text-decoration: none;
+}
