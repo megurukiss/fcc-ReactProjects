@@ -1,0 +1,12 @@
+.editorWrapper{
+    width: 400px;
+    margin:20px auto;
+    padding:0;
+    box-shadow:1px 1px 10px 2px black;
+}
+.textArea{
+    width:100%;
+    resize: vertical;
+    min-height: 200px;
+    padding:0;
+}

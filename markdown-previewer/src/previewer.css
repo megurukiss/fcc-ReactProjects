@@ -1,0 +1,33 @@
+.previewWrapper{
+    width: 700px;
+    margin:20px auto;
+    padding:0;
+    box-shadow:1px 1px 10px 2px black
+}
+.viewer{
+    width:100%;
+    background-color:white;
+    min-height: 400px;
+    text-align: left;
+}
+.viewer code{
+    display: inline-block;
+    background-color: beige;
+    text-align: left;
+}
+.viewer pre code{
+    width: calc(100% - 10px);
+    padding: 5px;
+}
+.viewer table{
+    border-collapse: collapse;
+    border: 2px solid black;
+}
+.viewer table th,
+.viewer table td {
+  border: 2px solid black; 
+}
+.viewer img{
+    max-width: 100%;
+    height: auto;
+}
