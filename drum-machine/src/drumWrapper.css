@@ -1,0 +1,55 @@
+.wrapper{
+    width: 500px;
+    border: 5px solid orange;
+    background-color: gainsboro;
+    display: flex;
+    align-items: center;
+    height: 215px;
+}
+.keyWrapper{
+    display: grid;
+    grid-template-columns:repeat(3,60px);
+    grid-template-rows: repeat(3,60px);
+    gap: 5px;
+    height: 100%;
+    padding: 10px;
+    width: 60%;
+}
+.toolBar{
+    height:100%;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.text{
+    background-color: goldenrod;
+    width:100px;
+    height:30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.powerLabel{
+    font-weight: bold;
+}
+.powerButton{
+    width: 50px;
+    height: 30px;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.off{
+    width: 25px;
+    height: 100%;
+    background-color: yellow;
+}
+.on{
+    width: 25px;
+    height: 100%;
+    background-color: yellow;
+    cursor: pointer;
+}

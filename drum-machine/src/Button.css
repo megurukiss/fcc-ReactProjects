@@ -1,0 +1,13 @@
+.button-normal{
+    box-shadow: 3px 3px 5px 0px;
+
+}
+.button-active{
+    background-color: red;
+    box-shadow: none;
+}
+.button{
+    width: 50px;
+    height: 50px;
+    border-radius: 10px;
+}

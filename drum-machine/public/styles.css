@@ -1,0 +1,12 @@
+body,html{
+    text-align: center;
+    height: 100%;
+    width: 100%;
+    background-color: #8d8d8d;
+}
+*{
+    box-sizing: border-box;
+}
+#root{
+    height:100%;
+}
