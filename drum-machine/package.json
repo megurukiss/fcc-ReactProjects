@@ -18,7 +18,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build -b gh-pages -e markdown-previewer"
+    "deploy": "gh-pages -d build -b gh-pages -e drum-machine"
   },
   "eslintConfig": {
     "extends": [
