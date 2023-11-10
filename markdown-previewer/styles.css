@@ -1,12 +1,14 @@
-body,html{
+body{
+    background-color: cadetblue;
     text-align: center;
-    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+html{
     width: 100%;
-    background-color: #8d8d8d;
+    height: 100%;
+
 }
 *{
     box-sizing: border-box;
-}
-#root{
-    height:100%;
 }
