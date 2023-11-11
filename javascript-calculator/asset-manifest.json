@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/freeCodeCamp-ReactProjects/javascript-calculator/static/css/main.820263b8.css",
+    "main.js": "/freeCodeCamp-ReactProjects/javascript-calculator/static/js/main.79585125.js",
+    "static/js/787.6f0ed69e.chunk.js": "/freeCodeCamp-ReactProjects/javascript-calculator/static/js/787.6f0ed69e.chunk.js",
+    "static/media/logo.svg": "/freeCodeCamp-ReactProjects/javascript-calculator/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/freeCodeCamp-ReactProjects/javascript-calculator/index.html",
+    "main.820263b8.css.map": "/freeCodeCamp-ReactProjects/javascript-calculator/static/css/main.820263b8.css.map",
+    "main.79585125.js.map": "/freeCodeCamp-ReactProjects/javascript-calculator/static/js/main.79585125.js.map",
+    "787.6f0ed69e.chunk.js.map": "/freeCodeCamp-ReactProjects/javascript-calculator/static/js/787.6f0ed69e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.820263b8.css",
+    "static/js/main.79585125.js"
+  ]
+}
