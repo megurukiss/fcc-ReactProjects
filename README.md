@@ -5,3 +5,5 @@
 ## [Markdown Previewer](https://megurukiss.github.io/freeCodeCamp-ReactProjects/markdown-previewer/)
 
 ## [Drum Machine](https://megurukiss.github.io/freeCodeCamp-ReactProjects/drum-machine/)
+
+## [JS Calculator](https://megurukiss.github.io/freeCodeCamp-ReactProjects/javascript-calculator/)
