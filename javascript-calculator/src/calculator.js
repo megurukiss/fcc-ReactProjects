@@ -149,7 +149,7 @@ function Calculator(){
                 });
                 setOutput((pre)=>{
                     try{
-                        let calculationResult = eval(output.replace('X', '*')).toString();
+                        let calculationResult = eval(output.replace(/X/g, '*')).toString();
                         setResult(calculationResult);
                         setOp(true);
                         return pre+'='+calculationResult;
