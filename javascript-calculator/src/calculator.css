@@ -12,12 +12,14 @@
     min-height: 30px;
     color: orange;
     text-align: right;
+    overflow: auto;
 }
 .inscreen{
     width: 100%;
     min-height: 30px;
     color: white;
     text-align: right;
+    overflow: auto;
 }
 .keysWrapper{
     display: grid;
